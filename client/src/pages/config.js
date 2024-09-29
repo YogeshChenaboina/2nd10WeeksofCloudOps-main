@@ -1,3 +1,3 @@
 // const API_BASE_URL = "http://localhost:8800";
-const API_BASE_URL = "http://kalpvan.icu";
+const API_BASE_URL = "https://kalpvan.icu";
 export default API_BASE_URL;
